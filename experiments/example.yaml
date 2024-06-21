@@ -1,4 +1,0 @@
-flag: default.example
-type: experiment
-name: Example flag
-value: false
